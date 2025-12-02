@@ -13,8 +13,8 @@ DS-4002-CS3
 |   ├── Hourly_Borough_Forecasting.py
 │   └── preprocessing.py
 ├── SUPPLEMENTAL MATERIALS
-│   ├── NYC_Collision_Statistics.pdf *(an article to motivate the project)*
-│   ├── Prophet_Documentation.pdf *(an article detailing the time-series model used in this case)*
+│   ├── NYC_Collision_Statistics.pdf
+│   ├── Prophet_Documentation.pdf
 │   └── requirements.txt
 ├── CS3_Rubric.pdf
 ├── Hook_Document.pdf
@@ -31,7 +31,7 @@ DS-4002-CS3
   4. **Prepare the data**
      - Download `collisions_raw.csv.zip` from `DATA` folder.
      - Unzip the file and place `collisions_raw.csv` into the `DATA` directory.
-     - Run the `preprocessing.py` (from `SCRIPTS` folder). This script will clean the raw data and save the processed dataset as `DATA/collisions_cleaned.csv`.
+     - Run `preprocessing.py` (from `SCRIPTS` folder). This script will clean the raw data and save the processed dataset as `DATA/collisions_cleaned.csv`.
   5. **Identify the Highest Risk Borough**
      - Open and run `Daily_Borough_Forecasting.py` in the `SCRIPTS` folder.
          - Be sure to set the appropriate forecasting date (January 1, 2026).
