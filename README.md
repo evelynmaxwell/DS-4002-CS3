@@ -13,6 +13,8 @@ DS-4002-CS3
 |   ├── Hourly_Borough_Forecasting.py
 │   └── preprocessing.py
 ├── SUPPLEMENTAL MATERIALS
+│   ├── Article1.pdf
+│   └── requirements.txt
 ├── LICENSE.md
 └── README.md
 ```
@@ -22,7 +24,7 @@ DS-4002-CS3
   2. **Set up Python and install required add-on packages**
      - Clone this repository: https://github.com/evelynmaxwell/DS-4002-CS3/
      - Ensure you have Python 3 installed on your system.
-     - Install required packages using `pip install -r requirements.txt`
+     - Install required packages using `pip install -r "SUPPLEMENTAL MATERIALS/requirements.txt"`
   3. **Prepare the data**
      - Download `collisions_raw.csv.zip` from `DATA` folder.
      - Unzip the file and place `collisions_raw.csv` into the `DATA` directory.
