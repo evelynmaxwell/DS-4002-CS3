@@ -24,7 +24,7 @@ DS-4002-CS3
 
 ## Instructions
   1. **Start with the hook document!**
-  2. **Read the articles in `SUPPLEMENTAL MATERIALS` for further context and motivation**
+  2. **Read the articles in** `SUPPLEMENTAL MATERIALS` **for further context and motivation**
   3. **Set up Python and install required add-on packages**
      - Clone this repository: https://github.com/evelynmaxwell/DS-4002-CS3/
      - Ensure you have Python 3 installed on your system.
