@@ -43,5 +43,11 @@ DS-4002-CS3
   7. **Interpret and Document Your Findings**
      - Be curious! Generate any additional plots or graphs that may be useful.
   
-     
+
+## References
+[1]	City of New York, 2014, “Motor Vehicle Collisions — Crashes,” NYC Open Data. [Online]. Available: https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95 
+
+[2] 	M. Mirakyan, “Time Series Analysis with Python using Prophet (98/100 Days of Python),” Medium, Apr. 9, 2023. [Online]. Available: https://martinxpn.medium.com/time-series-analysis-with-python-using-prophet-98-100-days-of-python-689b26e8e222 
+
+[3] 	“New York City Car Accident Statistics,” JKNYLaw. [Online]. Available: https://jknylaw.com/new-york-car-accident-lawyer/statistics/
  
