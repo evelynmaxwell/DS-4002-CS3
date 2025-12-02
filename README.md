@@ -1,7 +1,7 @@
 # Case Study — NYC Vision Zero Motor Vehicle Collision Forecasting
 
 ## Documentation Map
-The hierarchy of folders and files contained in this project are as follows:
+The hierarchy of folders and files in this repository are as follows:
 
 ```text
 DS-4002-CS3
@@ -13,8 +13,8 @@ DS-4002-CS3
 |   ├── Hourly_Borough_Forecasting.py
 │   └── preprocessing.py
 ├── SUPPLEMENTAL MATERIALS
-│   ├── NYC_Collision_Statistics.pdf
-│   ├── Prophet_Documentation.pdf
+│   ├── NYC_Collision_Statistics.pdf *(an article to motivate the project)*
+│   ├── Prophet_Documentation.pdf *(an article detailing the time-series model used in this case)*
 │   └── requirements.txt
 ├── CS3_Rubric.pdf
 ├── Hook_Document.pdf
