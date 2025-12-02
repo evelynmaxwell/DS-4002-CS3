@@ -13,7 +13,10 @@ DS-4002-CS3
 |   ├── Hourly_Borough_Forecasting.py
 │   └── preprocessing.py
 ├── SUPPLEMENTAL MATERIALS
-│   ├── Article1.pdf
+│   ├── Comparing_Forecasting_Models.pdf
+│   ├── NYC_Collision_Statistics.pdf
+│   ├── NYC_Vision_Zero_Update.pdf
+│   ├── Prophet_Documentation.pdf
 │   └── requirements.txt
 ├── LICENSE.md
 └── README.md
