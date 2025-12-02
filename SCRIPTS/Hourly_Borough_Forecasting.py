@@ -206,5 +206,6 @@ def fit_forecast_hourly_for_day(
     return fcst
 
 # --------------------------- Example run ---------------------------------
+## CHANGE BOROUGH AND DATE AS NEEDED
 fc = fit_forecast_hourly_for_day("Brooklyn", "2025-11-01", uncertainty_samples=0)
 print(fc.to_string(index=False))
