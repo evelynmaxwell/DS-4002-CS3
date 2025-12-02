@@ -162,7 +162,7 @@ if results:
     print(summary.to_string(index=False))
 
 # ---------- Forecast Specific Future Day --------------------------------------
-target_date = pd.Timestamp("2025-11-01")  # Change this date as needed
+target_date = pd.Timestamp("2025-11-01")  # CHANGE THIS DATE AS NEEDED
 rows = []
 
 # Predict for each trained borough model
